@@ -1,0 +1,166 @@
+{
+    "video": {
+    "videoData": {
+      "youtubeAPI": {
+        "kind": "youtube#videoListResponse",
+        "etag": "chepvWNPVtREXLkMdEbihHFA0no",
+        "items": [
+          {
+            "kind": "youtube#video",
+            "etag": "y2BnsPyxkSAPEtHh3J72Nlp4vL4",
+            "id": "EYodthAGUx4",
+            "snippet": {
+              "publishedAt": "2025-04-26T14:00:17Z",
+              "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+              "title": "Terrence Howard: Back in the Saddle!",
+              "description": "Go to https://ground.news/pde for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through my link!\n\nWell folks, Terrence Howard just will not learn his lesson. After being mocked for most of 2024, due to the vast majority of humanity seeing right through his \"I'm a super awesome mega genius\" routine, he spent a bit of time licking his wounds. But he's back with a new angle and a new grift, so it's time to make fun of him some more. And this time he's been mouthing off about me specifically, so it's personal. Let's all laugh at Terry together!\n\nMy first Terry video: https://www.youtube.com/watch?v=lWAyfr3gxMA\nMy second Terry video: https://www.youtube.com/watch?v=oXx25Jg7q44\n\nWatch my other debunks/debates/discussions: http://bit.ly/ProfDaveDebunk\n\nEMAIL► ProfessorDaveExplains@gmail.com\nPATREON► http://patreon.com/ProfessorDaveExplains\n\nCheck out \"Is This Wi-Fi Organic?\", my book on disarming pseudoscience!\nAmazon: https://amzn.to/2HtNpVH\nBookshop: https://bit.ly/39cKADM\nBarnes and Noble: https://bit.ly/3pUjmrn\nBook Depository: http://bit.ly/3aOVDlT",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/EYodthAGUx4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/EYodthAGUx4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/EYodthAGUx4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/EYodthAGUx4/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/EYodthAGUx4/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Professor Dave Explains",
+              "tags": [
+                "terrence howard",
+                "weiping yu",
+                "patrick bet david",
+                "pbd podcast",
+                "joe rogan",
+                "tetryen",
+                "terryology",
+                "three body problem",
+                "chris d seely",
+                "ground news",
+                "geometry",
+                "eric weinstein",
+                "math",
+                "patents",
+                "bohr model",
+                "electric universe",
+                "electromagnetism",
+                "NASA",
+                "minnect",
+                "gravity",
+                "relativity",
+                "quantum mechanics"
+              ],
+              "categoryId": "27",
+              "liveBroadcastContent": "none",
+              "localized": {
+                "title": "Terrence Howard: Back in the Saddle!",
+                "description": "Go to https://ground.news/pde for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through my link!\n\nWell folks, Terrence Howard just will not learn his lesson. After being mocked for most of 2024, due to the vast majority of humanity seeing right through his \"I'm a super awesome mega genius\" routine, he spent a bit of time licking his wounds. But he's back with a new angle and a new grift, so it's time to make fun of him some more. And this time he's been mouthing off about me specifically, so it's personal. Let's all laugh at Terry together!\n\nMy first Terry video: https://www.youtube.com/watch?v=lWAyfr3gxMA\nMy second Terry video: https://www.youtube.com/watch?v=oXx25Jg7q44\n\nWatch my other debunks/debates/discussions: http://bit.ly/ProfDaveDebunk\n\nEMAIL► ProfessorDaveExplains@gmail.com\nPATREON► http://patreon.com/ProfessorDaveExplains\n\nCheck out \"Is This Wi-Fi Organic?\", my book on disarming pseudoscience!\nAmazon: https://amzn.to/2HtNpVH\nBookshop: https://bit.ly/39cKADM\nBarnes and Noble: https://bit.ly/3pUjmrn\nBook Depository: http://bit.ly/3aOVDlT"
+              },
+              "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+              "duration": "PT1H37M10S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+            },
+            "statistics": {
+              "viewCount": "309553",
+              "likeCount": "16107",
+              "favoriteCount": "0",
+              "commentCount": "6207"
+            }
+          }
+        ],
+        "pageInfo": {
+          "totalResults": 1,
+          "resultsPerPage": 1
+        }
+      },
+      "localdb": {
+        "video": {
+          "objid": 71222,
+          "channel_owner_name": "Professor Dave Explains",
+          "entry_date": "2025-04-28T17:23:51.000Z",
+          "pct_viewed": 100,
+          "viewed": 1,
+          "last_viewed": "2025-04-28T17:23:51.000Z",
+          "keywords": "terrence howard,weiping yu,patrick bet david,pbd podcast,joe rogan,tetryen,terryology,three body problem,chris d seely,ground news,geometry,eric weinstein,math,patents,bohr model,electric universe,electromagnetism,NASA,minnect,gravity,relativity,quantum mechanics",
+          "channel_owner_id": 2584,
+          "amount_viewed": "01:37:10",
+          "play_length": "01:37:10",
+          "url": "https://www.youtube.com/watch?v=EYodthAGUx4",
+          "caption": "Terrence Howard: Back in the Saddle!",
+          "description": "Go to https://ground.news/pde for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through my link!\n\nWell folks, Terrence Howard just will not learn his lesson. After being mocked for most of 2024, due to the vast majority of humanity seeing right through his \"I'm a super awesome mega genius\" routine, he spent a bit of time licking his wounds. But he's back with a new angle and a new grift, so it's time to make fun of him some more. And this time he's been mouthing off about me specifically, so it's personal. Let's all laugh at Terry together!\n\nMy first Terry video: https://www.youtube.com/watch?v=lWAyfr3gxMA\nMy second Terry video: https://www.youtube.com/watch?v=oXx25Jg7q44\n\nWatch my other debunks/debates/discussions: http://bit.ly/ProfDaveDebunk\n\nEMAIL► ProfessorDaveExplains@gmail.com\nPATREON► http://patreon.com/ProfessorDaveExplains\n\nCheck out \"Is This Wi-Fi Organic?\", my book on disarming pseudoscience!\nAmazon: https://amzn.to/2HtNpVH\nBookshop: https://bit.ly/39cKADM\nBarnes and Noble: https://bit.ly/3pUjmrn\nBook Depository: http://bit.ly/3aOVDlT",
+          "sequence": null,
+          "upload_date": "2025-04-26T09:00:17.000Z",
+          "start_point": null,
+          "end_point": null,
+          "rating": null,
+          "channel_owner_link": null,
+          "thumbnail": null,
+          "downloaded": null,
+          "download_date": null,
+          "ytd_results": null,
+          "ytd_results_date": null,
+          "ytd_notes": null,
+          "media_date": null,
+          "notes": null,
+          "topic": null,
+          "date_viewed": null,
+          "parts": null,
+          "view_start": null,
+          "view_end": null,
+          "sequence_id": null,
+          "etag": null,
+          "embed_url": "https://www.youtube.com/embed/EYodthAGUx4",
+          "videoid": "EYodthAGUx4",
+          "playlist_url": null,
+          "status": 1,
+          "rewatch": 0,
+          "reuse": null
+        },
+        "activity": [
+          {
+            "objid": 30985,
+            "entry_date": "2025-04-28T17:23:51.000Z",
+            "youtube_video_id": 71222,
+            "action_timepoint": "2025-04-28T17:23:51.000Z",
+            "activity_type": "Changed amount viewed; ",
+            "view_time": "2025-04-28T17:23:51.000Z",
+            "amount_viewed": "01:37:10",
+            "pct_viewed": 100,
+            "downloaded": null,
+            "download_notes": null,
+            "notes": "Notes: \nFields Changed: BRANCH1: amount_viewed; \nPrevious url: https://www.youtube.com/watch?v=EYodthAGUx4\nPrevious caption: Terrence Howard: Back in the Saddle!\nPrevious note: \nPrevious amount_viewed: 00:00:00\nPrevious date viewed: 0000-00-00 00:00:00\nLast Viewing: 2025-04-28 10:23:51\n"
+          }
+        ]
+      }
+    }
+  },
+  "channel": {
+    "channelData": {
+      "youtubeAPI": {},
+      "localdb": {}
+    }
+  }
+}
